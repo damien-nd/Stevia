@@ -8,6 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		1F00D53D1C9AD18A00B90965 /* StyleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F00D53C1C9AD18A00B90965 /* StyleTests.swift */; };
+		99020ABF1D8FF6E600352F1C /* SteviatvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 99020AB11D8FF6E600352F1C /* SteviatvOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		99020B271D8FF92800352F1C /* Stevia+Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B151D8FF92800352F1C /* Stevia+Alignment.swift */; };
+		99020B281D8FF92800352F1C /* Stevia+Center.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B161D8FF92800352F1C /* Stevia+Center.swift */; };
+		99020B291D8FF92800352F1C /* Stevia+Constraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B171D8FF92800352F1C /* Stevia+Constraints.swift */; };
+		99020B2A1D8FF92800352F1C /* Stevia+Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B181D8FF92800352F1C /* Stevia+Content.swift */; };
+		99020B2B1D8FF92800352F1C /* Stevia+DoubleDash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B191D8FF92800352F1C /* Stevia+DoubleDash.swift */; };
+		99020B2C1D8FF92800352F1C /* Stevia+Fill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B1A1D8FF92800352F1C /* Stevia+Fill.swift */; };
+		99020B2D1D8FF92800352F1C /* Stevia+FlexibleMargin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B1B1D8FF92800352F1C /* Stevia+FlexibleMargin.swift */; };
+		99020B2E1D8FF92800352F1C /* Stevia+GetConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B1C1D8FF92800352F1C /* Stevia+GetConstraint.swift */; };
+		99020B2F1D8FF92800352F1C /* Stevia+Hierarchy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B1D1D8FF92800352F1C /* Stevia+Hierarchy.swift */; };
+		99020B301D8FF92800352F1C /* Stevia+Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B1E1D8FF92800352F1C /* Stevia+Notifications.swift */; };
+		99020B311D8FF92800352F1C /* Stevia+Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B1F1D8FF92800352F1C /* Stevia+Operators.swift */; };
+		99020B321D8FF92800352F1C /* Stevia+Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B201D8FF92800352F1C /* Stevia+Position.swift */; };
+		99020B331D8FF92800352F1C /* Stevia+Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B211D8FF92800352F1C /* Stevia+Size.swift */; };
+		99020B341D8FF92800352F1C /* Stevia+Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B221D8FF92800352F1C /* Stevia+Stacks.swift */; };
+		99020B351D8FF92800352F1C /* Stevia+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B231D8FF92800352F1C /* Stevia+Style.swift */; };
+		99020B361D8FF92800352F1C /* Stevia+Tap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99020B241D8FF92800352F1C /* Stevia+Tap.swift */; };
 		99585BE61D86ABFF004CE776 /* Stevia+Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99585BD41D86ABFF004CE776 /* Stevia+Alignment.swift */; };
 		99585BE71D86ABFF004CE776 /* Stevia+Center.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99585BD51D86ABFF004CE776 /* Stevia+Center.swift */; };
 		99585BE81D86ABFF004CE776 /* Stevia+Constraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99585BD61D86ABFF004CE776 /* Stevia+Constraints.swift */; };
@@ -49,6 +66,25 @@
 
 /* Begin PBXFileReference section */
 		1F00D53C1C9AD18A00B90965 /* StyleTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleTests.swift; sourceTree = "<group>"; };
+		99020AAF1D8FF6E500352F1C /* Stevia.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Stevia.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		99020AB11D8FF6E600352F1C /* SteviatvOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SteviatvOS.h; sourceTree = "<group>"; };
+		99020AB21D8FF6E600352F1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99020B151D8FF92800352F1C /* Stevia+Alignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Alignment.swift"; sourceTree = "<group>"; };
+		99020B161D8FF92800352F1C /* Stevia+Center.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Center.swift"; sourceTree = "<group>"; };
+		99020B171D8FF92800352F1C /* Stevia+Constraints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Constraints.swift"; sourceTree = "<group>"; };
+		99020B181D8FF92800352F1C /* Stevia+Content.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Content.swift"; sourceTree = "<group>"; };
+		99020B191D8FF92800352F1C /* Stevia+DoubleDash.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+DoubleDash.swift"; sourceTree = "<group>"; };
+		99020B1A1D8FF92800352F1C /* Stevia+Fill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Fill.swift"; sourceTree = "<group>"; };
+		99020B1B1D8FF92800352F1C /* Stevia+FlexibleMargin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+FlexibleMargin.swift"; sourceTree = "<group>"; };
+		99020B1C1D8FF92800352F1C /* Stevia+GetConstraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+GetConstraint.swift"; sourceTree = "<group>"; };
+		99020B1D1D8FF92800352F1C /* Stevia+Hierarchy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Hierarchy.swift"; sourceTree = "<group>"; };
+		99020B1E1D8FF92800352F1C /* Stevia+Notifications.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Notifications.swift"; sourceTree = "<group>"; };
+		99020B1F1D8FF92800352F1C /* Stevia+Operators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Operators.swift"; sourceTree = "<group>"; };
+		99020B201D8FF92800352F1C /* Stevia+Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Position.swift"; sourceTree = "<group>"; };
+		99020B211D8FF92800352F1C /* Stevia+Size.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Size.swift"; sourceTree = "<group>"; };
+		99020B221D8FF92800352F1C /* Stevia+Stacks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Stacks.swift"; sourceTree = "<group>"; };
+		99020B231D8FF92800352F1C /* Stevia+Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Style.swift"; sourceTree = "<group>"; };
+		99020B241D8FF92800352F1C /* Stevia+Tap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Tap.swift"; sourceTree = "<group>"; };
 		99585BD31D86ABFF004CE776 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		99585BD41D86ABFF004CE776 /* Stevia+Alignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Alignment.swift"; sourceTree = "<group>"; };
 		99585BD51D86ABFF004CE776 /* Stevia+Center.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Center.swift"; sourceTree = "<group>"; };
@@ -82,6 +118,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		99020AAB1D8FF6E500352F1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9991C8511BDB6C8B007D9B75 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -100,6 +143,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		99020AB01D8FF6E600352F1C /* SteviatvOS */ = {
+			isa = PBXGroup;
+			children = (
+				99020AB11D8FF6E600352F1C /* SteviatvOS.h */,
+				99020B131D8FF92800352F1C /* Source */,
+				99020AB21D8FF6E600352F1C /* Info.plist */,
+			);
+			path = SteviatvOS;
+			sourceTree = "<group>";
+		};
+		99020B131D8FF92800352F1C /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				99020B151D8FF92800352F1C /* Stevia+Alignment.swift */,
+				99020B161D8FF92800352F1C /* Stevia+Center.swift */,
+				99020B171D8FF92800352F1C /* Stevia+Constraints.swift */,
+				99020B181D8FF92800352F1C /* Stevia+Content.swift */,
+				99020B191D8FF92800352F1C /* Stevia+DoubleDash.swift */,
+				99020B1A1D8FF92800352F1C /* Stevia+Fill.swift */,
+				99020B1B1D8FF92800352F1C /* Stevia+FlexibleMargin.swift */,
+				99020B1C1D8FF92800352F1C /* Stevia+GetConstraint.swift */,
+				99020B1D1D8FF92800352F1C /* Stevia+Hierarchy.swift */,
+				99020B1E1D8FF92800352F1C /* Stevia+Notifications.swift */,
+				99020B1F1D8FF92800352F1C /* Stevia+Operators.swift */,
+				99020B201D8FF92800352F1C /* Stevia+Position.swift */,
+				99020B211D8FF92800352F1C /* Stevia+Size.swift */,
+				99020B221D8FF92800352F1C /* Stevia+Stacks.swift */,
+				99020B231D8FF92800352F1C /* Stevia+Style.swift */,
+				99020B241D8FF92800352F1C /* Stevia+Tap.swift */,
+			);
+			path = Source;
+			sourceTree = SOURCE_ROOT;
+		};
 		99585BD21D86ABFF004CE776 /* Source */ = {
 			isa = PBXGroup;
 			children = (
@@ -130,6 +206,7 @@
 			children = (
 				9991C8571BDB6C8B007D9B75 /* Stevia */,
 				99B621791BF75D0E00A54B05 /* SteviaTests */,
+				99020AB01D8FF6E600352F1C /* SteviatvOS */,
 				9991C8561BDB6C8B007D9B75 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -139,6 +216,7 @@
 			children = (
 				9991C8551BDB6C8B007D9B75 /* Stevia.framework */,
 				99B621781BF75D0E00A54B05 /* SteviaTests.xctest */,
+				99020AAF1D8FF6E500352F1C /* Stevia.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -172,6 +250,14 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		99020AAC1D8FF6E500352F1C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99020ABF1D8FF6E600352F1C /* SteviatvOS.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9991C8521BDB6C8B007D9B75 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -183,6 +269,24 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		99020AAE1D8FF6E500352F1C /* SteviatvOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 99020AC41D8FF6E600352F1C /* Build configuration list for PBXNativeTarget "SteviatvOS" */;
+			buildPhases = (
+				99020AAA1D8FF6E500352F1C /* Sources */,
+				99020AAB1D8FF6E500352F1C /* Frameworks */,
+				99020AAC1D8FF6E500352F1C /* Headers */,
+				99020AAD1D8FF6E500352F1C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SteviatvOS;
+			productName = SteviatvOS;
+			productReference = 99020AAF1D8FF6E500352F1C /* Stevia.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		9991C8541BDB6C8B007D9B75 /* Stevia */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9991C85D1BDB6C8B007D9B75 /* Build configuration list for PBXNativeTarget "Stevia" */;
@@ -226,10 +330,14 @@
 		9991C84C1BDB6C8B007D9B75 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0710;
+				LastSwiftUpdateCheck = 0800;
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Sacha Durand Saint Omer";
 				TargetAttributes = {
+					99020AAE1D8FF6E500352F1C = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
 					9991C8541BDB6C8B007D9B75 = {
 						CreatedOnToolsVersion = 7.0;
 						LastSwiftMigration = 0800;
@@ -254,11 +362,19 @@
 			targets = (
 				9991C8541BDB6C8B007D9B75 /* Stevia */,
 				99B621771BF75D0E00A54B05 /* SteviaTests */,
+				99020AAE1D8FF6E500352F1C /* SteviatvOS */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		99020AAD1D8FF6E500352F1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9991C8531BDB6C8B007D9B75 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -292,6 +408,29 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		99020AAA1D8FF6E500352F1C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99020B2C1D8FF92800352F1C /* Stevia+Fill.swift in Sources */,
+				99020B2E1D8FF92800352F1C /* Stevia+GetConstraint.swift in Sources */,
+				99020B281D8FF92800352F1C /* Stevia+Center.swift in Sources */,
+				99020B2B1D8FF92800352F1C /* Stevia+DoubleDash.swift in Sources */,
+				99020B2D1D8FF92800352F1C /* Stevia+FlexibleMargin.swift in Sources */,
+				99020B2A1D8FF92800352F1C /* Stevia+Content.swift in Sources */,
+				99020B311D8FF92800352F1C /* Stevia+Operators.swift in Sources */,
+				99020B361D8FF92800352F1C /* Stevia+Tap.swift in Sources */,
+				99020B2F1D8FF92800352F1C /* Stevia+Hierarchy.swift in Sources */,
+				99020B321D8FF92800352F1C /* Stevia+Position.swift in Sources */,
+				99020B271D8FF92800352F1C /* Stevia+Alignment.swift in Sources */,
+				99020B331D8FF92800352F1C /* Stevia+Size.swift in Sources */,
+				99020B301D8FF92800352F1C /* Stevia+Notifications.swift in Sources */,
+				99020B351D8FF92800352F1C /* Stevia+Style.swift in Sources */,
+				99020B341D8FF92800352F1C /* Stevia+Stacks.swift in Sources */,
+				99020B291D8FF92800352F1C /* Stevia+Constraints.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9991C8501BDB6C8B007D9B75 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -343,6 +482,55 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		99020AC01D8FF6E600352F1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = SteviatvOS/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.s4cha.Stevia.SteviatvOS;
+				PRODUCT_NAME = Stevia;
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
+		99020AC11D8FF6E600352F1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = SteviatvOS/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.s4cha.Stevia.SteviatvOS;
+				PRODUCT_NAME = Stevia;
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Release;
+		};
 		9991C85B1BDB6C8B007D9B75 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -502,6 +690,14 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		99020AC41D8FF6E600352F1C /* Build configuration list for PBXNativeTarget "SteviatvOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				99020AC01D8FF6E600352F1C /* Debug */,
+				99020AC11D8FF6E600352F1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		9991C84F1BDB6C8B007D9B75 /* Build configuration list for PBXProject "Stevia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
