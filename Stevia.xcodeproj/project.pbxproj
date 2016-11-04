@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1F00D53D1C9AD18A00B90965 /* StyleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F00D53C1C9AD18A00B90965 /* StyleTests.swift */; };
+		6D5519941DCCCEBA0015ACBB /* LeakTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D5519931DCCCEBA0015ACBB /* LeakTests.swift */; };
 		99585BE61D86ABFF004CE776 /* Stevia+Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99585BD41D86ABFF004CE776 /* Stevia+Alignment.swift */; };
 		99585BE71D86ABFF004CE776 /* Stevia+Center.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99585BD51D86ABFF004CE776 /* Stevia+Center.swift */; };
 		99585BE81D86ABFF004CE776 /* Stevia+Constraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99585BD61D86ABFF004CE776 /* Stevia+Constraints.swift */; };
@@ -49,6 +50,7 @@
 
 /* Begin PBXFileReference section */
 		1F00D53C1C9AD18A00B90965 /* StyleTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleTests.swift; sourceTree = "<group>"; };
+		6D5519931DCCCEBA0015ACBB /* LeakTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeakTests.swift; sourceTree = "<group>"; };
 		99585BD31D86ABFF004CE776 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		99585BD41D86ABFF004CE776 /* Stevia+Alignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Alignment.swift"; sourceTree = "<group>"; };
 		99585BD51D86ABFF004CE776 /* Stevia+Center.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Center.swift"; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 				99C5A4841C7A4971003EDE10 /* FullLayoutTests.swift */,
 				99C5A4871C7A5B93003EDE10 /* FlexibleMarginTests.swift */,
 				1F00D53C1C9AD18A00B90965 /* StyleTests.swift */,
+				6D5519931DCCCEBA0015ACBB /* LeakTests.swift */,
 			);
 			path = SteviaTests;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 				CBC533521C6E24970008F340 /* FillTests.swift in Sources */,
 				99C5A4881C7A5B93003EDE10 /* FlexibleMarginTests.swift in Sources */,
 				CBC5334E1C6E12890008F340 /* ContentTests.swift in Sources */,
+				6D5519941DCCCEBA0015ACBB /* LeakTests.swift in Sources */,
 				99C5A4831C7A477C003EDE10 /* CenterTests.swift in Sources */,
 				99C5A4851C7A4971003EDE10 /* FullLayoutTests.swift in Sources */,
 				99C5A4811C7A3524003EDE10 /* LayoutTests.swift in Sources */,
